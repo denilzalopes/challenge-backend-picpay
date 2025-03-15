@@ -44,7 +44,7 @@ Le CPF/CNPJ et les e-mails doivent être uniques dans le système. Ainsi, chaque
 
 1. Clonez le dépôt
    ```bash
-   git clone https://github.com/votre-utilisateur/picpay-simplificado.git
+   git clone https://github.com/denilzalopes/picpay-simplificado.git
    ```
 2. Naviguez dans le répertoire du projet
    ```bash
